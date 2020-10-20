@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 &layout=compact
 -->
 [![electricbubble's github stats](https://github-readme-stats.vercel.app/api?username=electricbubble&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&line_height=32)](https://github.com/electricbubble)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electricbubble&hide_title=true&hide_border=true)](https://github.com/electricbubble)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electricbubble&hide_title=true&hide_border=true&hide=html)](https://github.com/electricbubble)
